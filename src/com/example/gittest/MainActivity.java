@@ -24,6 +24,7 @@ public class MainActivity extends Activity {
 			@Override
 			public void onClick(View arg0) {
 				text.setText("OK");
+				//
 			}
 		});
 	}
